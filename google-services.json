@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "649775376739",
+    "project_id": "delivery-aaecc",
+    "storage_bucket": "delivery-aaecc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649775376739:android:b617d83d6bee6d827d0b56",
+        "android_client_info": {
+          "package_name": "app.delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "649775376739-k178eb8nbgc5v15safcisr1sfs6ogmh8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLYMuUT_7wRGZO5hf9S-kkEPT6PXeUgEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "649775376739-k178eb8nbgc5v15safcisr1sfs6ogmh8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
